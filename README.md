@@ -27,6 +27,7 @@ val Lacritz = engineer {
     }
     links {
         github = "@Lacritz"
+        gitlab = "@Lacritz"
         company = "https://datalbry.io"
     }
 }
