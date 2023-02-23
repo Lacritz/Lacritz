@@ -20,10 +20,11 @@ val Lacritz = engineer {
         }
     }
     coding {
-        languages("Kotlin", "Java", "_GoLang_", "Typescript", "HTML", "CSS")
-        tools("Ktor", "Spring Boot", "React", "Terraform", "Flux", "Gradle")
+        languages("Kotlin", "Java", "GoLang", "Typescript")
+        frameworks("ktor", "react", "quarkus", "spring boot", "vue")
+        devops("traefik", "terraform", "gradle", "kubernetes")
         cloud("GCP", "AWS")
-        architecture("microservices", "event-driven", "domain-driven")
+        architecture("microservices", "event-driven", "domain-driven", "cloud-native")
     }
     links {
         github = "@Lacritz"
